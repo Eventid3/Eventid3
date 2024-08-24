@@ -1,5 +1,5 @@
 ## Greetings!
-Welcome to my Github. 
+Welcome to my Github estate.
 
 - Software Engineering Student @ Aarhus University, Denmark 🇩🇰
 - Interested in a broad catagory of programming fields, everything from CLI tools, through web/mobile applications, to AI 🤖
